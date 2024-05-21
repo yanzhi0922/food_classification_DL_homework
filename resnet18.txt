@@ -1,0 +1,53 @@
+D:\dev\anaconda\envs\DL\python.exe C:\Users\17648\Desktop\深度学习\大作业\Food_Classification\food_classification\food_classification_densenet.py 
+Reading data
+Reading data complicated
+
+Dataset
+Dataset complicated
+
+Using cache found in C:\Users\17648/.cache\torch\hub\pytorch_vision_v0.6.0
+D:\dev\anaconda\envs\DL\Lib\site-packages\torchvision\models\_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+D:\dev\anaconda\envs\DL\Lib\site-packages\torchvision\models\_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=DenseNet121_Weights.IMAGENET1K_V1`. You can also use `weights=DenseNet121_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Model complicated
+
+Training
+[001/030] 12.91 sec(s) Train Acc: 0.773333 Loss: 0.022259 | Val  Acc: 0.800000 loss: 0.017564
+[002/030] 12.23 sec(s) Train Acc: 0.960000 Loss: 0.005245 | Val  Acc: 0.966667 loss: 0.008929
+[003/030] 12.22 sec(s) Train Acc: 0.966667 Loss: 0.004237 | Val  Acc: 0.733333 loss: 0.033054
+[004/030] 12.70 sec(s) Train Acc: 0.886667 Loss: 0.012147 | Val  Acc: 0.900000 loss: 0.013460
+[005/030] 12.93 sec(s) Train Acc: 0.946667 Loss: 0.008733 | Val  Acc: 0.800000 loss: 0.026023
+[006/030] 13.13 sec(s) Train Acc: 0.906667 Loss: 0.007647 | Val  Acc: 0.500000 loss: 0.260813
+[007/030] 13.02 sec(s) Train Acc: 0.973333 Loss: 0.004080 | Val  Acc: 0.666667 loss: 0.102876
+[008/030] 13.22 sec(s) Train Acc: 0.973333 Loss: 0.004322 | Val  Acc: 0.666667 loss: 0.061689
+[009/030] 13.00 sec(s) Train Acc: 0.973333 Loss: 0.003736 | Val  Acc: 0.766667 loss: 0.023532
+[010/030] 13.19 sec(s) Train Acc: 0.980000 Loss: 0.002946 | Val  Acc: 0.800000 loss: 0.023584
+[011/030] 12.92 sec(s) Train Acc: 0.986667 Loss: 0.002554 | Val  Acc: 0.733333 loss: 0.025216
+[012/030] 13.03 sec(s) Train Acc: 0.960000 Loss: 0.005663 | Val  Acc: 0.866667 loss: 0.016783
+[013/030] 13.02 sec(s) Train Acc: 0.980000 Loss: 0.002110 | Val  Acc: 0.800000 loss: 0.024439
+[014/030] 12.95 sec(s) Train Acc: 0.980000 Loss: 0.003017 | Val  Acc: 0.833333 loss: 0.022431
+[015/030] 12.76 sec(s) Train Acc: 0.993333 Loss: 0.001101 | Val  Acc: 0.766667 loss: 0.022072
+[016/030] 13.00 sec(s) Train Acc: 0.993333 Loss: 0.001061 | Val  Acc: 0.800000 loss: 0.022223
+[017/030] 13.17 sec(s) Train Acc: 0.993333 Loss: 0.001100 | Val  Acc: 0.766667 loss: 0.022490
+[018/030] 12.85 sec(s) Train Acc: 0.993333 Loss: 0.000904 | Val  Acc: 0.866667 loss: 0.021934
+[019/030] 12.80 sec(s) Train Acc: 1.000000 Loss: 0.000377 | Val  Acc: 0.900000 loss: 0.018740
+[020/030] 12.71 sec(s) Train Acc: 0.993333 Loss: 0.000729 | Val  Acc: 0.800000 loss: 0.019789
+[021/030] 12.93 sec(s) Train Acc: 0.993333 Loss: 0.000612 | Val  Acc: 0.800000 loss: 0.021518
+[022/030] 12.97 sec(s) Train Acc: 1.000000 Loss: 0.000465 | Val  Acc: 0.800000 loss: 0.017819
+[023/030] 12.91 sec(s) Train Acc: 1.000000 Loss: 0.000249 | Val  Acc: 0.900000 loss: 0.008799
+[024/030] 12.87 sec(s) Train Acc: 1.000000 Loss: 0.000324 | Val  Acc: 0.933333 loss: 0.005569
+[025/030] 13.12 sec(s) Train Acc: 0.993333 Loss: 0.000728 | Val  Acc: 0.933333 loss: 0.005226
+[026/030] 12.85 sec(s) Train Acc: 1.000000 Loss: 0.000260 | Val  Acc: 0.866667 loss: 0.010222
+[027/030] 12.65 sec(s) Train Acc: 1.000000 Loss: 0.000165 | Val  Acc: 0.800000 loss: 0.014251
+[028/030] 12.69 sec(s) Train Acc: 0.986667 Loss: 0.002336 | Val  Acc: 0.866667 loss: 0.020510
+[029/030] 12.90 sec(s) Train Acc: 0.993333 Loss: 0.000647 | Val  Acc: 0.833333 loss: 0.024176
+[030/030] 13.47 sec(s) Train Acc: 0.993333 Loss: 0.000393 | Val  Acc: 0.833333 loss: 0.015462
+Training complicated
+
+Testing
+Accuracy:  0.9333333333333333
+Testing complicated
+
+
+进程已结束，退出代码为 0
